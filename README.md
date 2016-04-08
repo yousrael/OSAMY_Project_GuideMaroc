@@ -3,25 +3,36 @@
 I.	Vision du produit 
 
 	Nom du produit : Guide Maroc
+
 	L’état du monde : en faisant une étude des guides existants, nous avons constaté que la plupart d’entre eux se focalisent sur les grandes villes, ce qui nous a poussés à mettre en lumière les régions et petites villes.
+
 	Exemples des guides trouvés :
 http://www.guide-maroc.net/
 http://www.routard.com/guide/code_dest/maroc.htm
 http://www.visitmorocco.com/index.php/fre/J-ai-envie-de
 
+
 	Objectif : 
+   
     	Fournir de l’information pour les gens qui veulent visiter le Maroc.
+    
     	Mettre en lumière des destinations qui sont moins connues et moins médiatisées et qui peuvent intéresser des gens pour de différentes activités.
+    
     	Permettre aux gens de partager leurs aventures avec d’autres personnes.
+    
     	Donner des conseils pour faire des économies (voyage, réservation.. )
 
 
 	Parties prenantes :
+    
     	Equipe de développement : OSAMY
+    
     	Scrum Master : Oualid BENHMID
+    
     	Product owner : Yousra EL GHZIZAL
 
 	Thèmes
+    
     	Caractéristiques fonctionnelles :
 •	Petite présentation et historique de chaque ville (photos,videos,....)
 •	La culture
@@ -29,6 +40,7 @@ http://www.visitmorocco.com/index.php/fre/J-ai-envie-de
 •	Les hôtels, logements
 •	vols
 
+    
     	Caractéristiques techniques :
 •	Qualité du contenu
 •	Interface responsive
@@ -37,10 +49,13 @@ http://www.visitmorocco.com/index.php/fre/J-ai-envie-de
 
 
 	Personas : 
+
    	Persona 1 :
          M. Jean Deagle :  Personne âgée de 32 ans qui aime voyager pour rencontrer de nouvelles personnes ,un style de vie             différent, d'observer de nouveaux paysages, une autre architecture.
+         
    	Persona 2 :
          MLLE Eleonora Constante : Personne âgée de 46 ans qui aime voyager afin  de découvrir les habitudes et coutumes du             nouveau endroit, manger d'autres plats, et apprendre  une nouvelle langue un minimum.
+         
    	Persona 3 :
          M. Marco Amell : Personne âgée de 28 ans qui aime les aventures, et qui aime découvrir des paysages, des lieux                 vraiment magnifiques et uniques qui ne sont pas beaucoup connus.
 
